@@ -23,6 +23,7 @@ function ToyForm({addToy,toyAPI}) {
       },
       body: JSON.stringify(submitObject)
     }).then(r=>r.json()).then(addToy);
+    e.target.reset();
     setSubmitObject({
       name: "",
       image: "",
