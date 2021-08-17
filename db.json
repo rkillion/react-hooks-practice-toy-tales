@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Green Army Men",
+      "image": "https://www.chicagotribune.com/resizer/SNkEf-4s6tx8H1ChFEkeV69WGMU=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/IF7O7AFU6BHEZNILN52NUSWTN4.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Lenny",
+      "image": "https://static.wikia.nocookie.net/pixar/images/d/dd/Id_2784_lenny-.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "RC",
+      "image": "https://static.wikia.nocookie.net/pixar/images/c/cd/RC_png.png",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Stinky Pete",
+      "image": "https://static.wikia.nocookie.net/pixar/images/5/57/7D156786-C8C4-405A-9077-4BF9ED7944F2.png/revision/latest?cb=20181126205811",
+      "likes": 0,
+      "id": 12
     }
   ]
 }

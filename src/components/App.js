@@ -18,10 +18,15 @@ function App() {
     setShowForm((showForm) => !showForm);
   }
 
+  function addToy(toy) {
+    let newToyList = [...toys,toy];
+    setToys(newToyList);
+  }
+
   return (
     <>
       <Header />
-      {showForm ? <ToyForm /> : null}
+      {showForm ? <ToyForm addToy={addToy} toyAPI={toyAPI}/> : null}
       <div className="buttonContainer">
         <button onClick={handleClick}>Add a Toy</button>
       </div>
