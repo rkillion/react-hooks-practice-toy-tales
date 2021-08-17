@@ -49,21 +49,9 @@
       "likes": -2
     },
     {
-      "name": "Green Army Men",
-      "image": "https://www.chicagotribune.com/resizer/SNkEf-4s6tx8H1ChFEkeV69WGMU=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/IF7O7AFU6BHEZNILN52NUSWTN4.jpg",
-      "likes": 0,
-      "id": 9
-    },
-    {
-      "name": "Lenny",
-      "image": "https://static.wikia.nocookie.net/pixar/images/d/dd/Id_2784_lenny-.png",
-      "likes": 0,
-      "id": 10
-    },
-    {
       "name": "RC",
       "image": "https://static.wikia.nocookie.net/pixar/images/c/cd/RC_png.png",
-      "likes": 0,
+      "likes": 6,
       "id": 11
     }
   ]
